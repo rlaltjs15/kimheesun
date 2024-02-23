@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 헤더부분 */
+.headerimgtext{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+/* 헤더 이미지 */
+.headerimgtext img{
+    width: 50px;
+    width: 50px;
+}
